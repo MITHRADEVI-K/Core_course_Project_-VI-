@@ -1,30 +1,40 @@
-# City CO2 Digital Twin
+# V0-City-CO2 Digital Twin
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A self-adaptive digital twin system for real-time monitoring, forecasting, and strategy evaluation of urban CO2 emissions.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mithradevikcse2023-5321s-projects/v0-city-co-2-digital-twin)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/iA8gVUGrxVF)
+## Quick Links
+- Problem Statement
+- System Architecture
+- Core Capabilities
 
-## Overview
+## Problem Statement
+Urban environments generate high CO2 emissions from transport, power generation, and industrial activities. Existing solutions lack real-time monitoring, predictive intelligence, and the ability to digitally evaluate mitigation strategies before deployment. An adaptive, data-driven system is required for effective urban CO2 management.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## System Architecture
+The system integrates sensor data, simulation models, AI forecasting, and strategy evaluation through a layered architecture.
 
-## Deployment
+![System Architecture Diagram](./assets/architecture-diagram.png)
 
-Your project is live at:
+### Architecture Layers
+- Sensors and emission input sources
+- Backend processing and orchestration
+- CO2 simulation engine
+- Sensor fusion module
+- AI forecasting module
+- Strategy evaluation engine
+- Centralized database layer
+- Frontend visualization layer
 
-**[https://vercel.com/mithradevikcse2023-5321s-projects/v0-city-co-2-digital-twin](https://vercel.com/mithradevikcse2023-5321s-projects/v0-city-co-2-digital-twin)**
+## Core Capabilities
+- Real-time CO2 data ingestion and fusion
+- Urban-scale CO2 simulation and heatmap generation
+- AI-based short-term CO2 forecasting
+- Digital evaluation of emission reduction strategies
+- Decision-support dashboards with KPIs
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/iA8gVUGrxVF](https://v0.app/chat/iA8gVUGrxVF)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## Technology Stack
+- Frontend: React, Map visualization, Charting libraries
+- Backend: API-based service layer
+- AI: Time-series forecasting models
+- Database: Relational data storage
+- Communication: REST APIs and real-time updates
