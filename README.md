@@ -1,7 +1,30 @@
+# City CO2 Digital Twin
 
-**Problem Statement SIH 222**
-SIH 2024: Problem Statement 222 aimed to develop a cost-effective, rapid, and portable method/machine to detect microbial load in raw and pasteurized milk as a modern replacement for the time-consuming Methylene Blue Reduction Test (MBRT).
-SIH 2023: Problem Statement 222 was assigned to the Ministry of Power under the software category, and was won by a team called "Grid Gladiators".
-SIH 2022: Problem Statement 222 was associated with the Ministry of Rural Development and a team called "Optimizers#REWA" from KIT's College of Engineering Kolhapur.
-SIH Software (General): Another instance of "222" (along with ID SM322) was related to "Seamless Invoicing and Reconciliation" for Ani Port and SEZ Ltd. 
-The Smart India Hackathon is a nationwide initiative to provide students with a platform to solve real-world problems faced by various government ministries, industries, and organizations. 
+*Automatically synced with your [v0.app](https://v0.app) deployments*
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mithradevikcse2023-5321s-projects/v0-city-co-2-digital-twin)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/iA8gVUGrxVF)
+
+## Overview
+
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+
+## Deployment
+
+Your project is live at:
+
+**[https://vercel.com/mithradevikcse2023-5321s-projects/v0-city-co-2-digital-twin](https://vercel.com/mithradevikcse2023-5321s-projects/v0-city-co-2-digital-twin)**
+
+## Build your app
+
+Continue building your app on:
+
+**[https://v0.app/chat/iA8gVUGrxVF](https://v0.app/chat/iA8gVUGrxVF)**
+
+## How It Works
+
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
